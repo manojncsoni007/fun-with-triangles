@@ -28,9 +28,7 @@
         letter-spacing: 3px;
     }
     
-    header nav {
-        text-align: right;
-    }
+    header nav {}
     
     header nav ul li {
         display: inline;
@@ -154,10 +152,13 @@
             margin-top: 0.5rem;
         }
         header nav ul li {
-            display: inline;
+            display: block;
+            margin: 1rem;
         }
         header ul a {
             margin: 1rem;
+            font-weight: 800;
+            font-size: larger;
         }
         .quiz-form {
             padding: 1rem;
