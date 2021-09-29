@@ -141,8 +141,8 @@
     
     @media (max-width: 900px) {
         header {
-            display: inline-block;
             width: 100%;
+            display: block;
         }
         header h1 {
             text-align: center;
@@ -153,6 +153,7 @@
             margin-top: 0.5rem;
         }
         header nav ul li {
+            display: block;
             margin: 0.5rem;
         }
         header ul a {
