@@ -28,8 +28,6 @@
         letter-spacing: 3px;
     }
     
-    header nav {}
-    
     header nav ul li {
         display: inline;
         margin: 0 0 0 2rem;
