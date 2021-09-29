@@ -153,11 +153,10 @@
             margin-top: 0.5rem;
         }
         header nav ul li {
-            display: block;
-            margin: 1rem;
+            margin: 0.5rem;
         }
         header ul a {
-            margin: 1rem;
+            margin: 0.3rem;
             font-weight: 800;
             font-size: larger;
         }
